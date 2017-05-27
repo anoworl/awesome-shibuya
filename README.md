@@ -61,7 +61,7 @@ Everything is recommended, but please adjust to your taste and budget.
 ### COUCAGNO
 - Target: Beginner
 - Price **(Lunch)**: High (5000 - 15000)
-- Price **(Dinner)**: Very High (2000 - 35000)
+- Price **(Dinner)**: Very High (20000 - 35000)
 - Taste: High
 - Mood: High (Formal)
 - Traffic: Low
