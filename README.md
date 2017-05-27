@@ -1,5 +1,5 @@
-# awesome-shibuya
-Awesome shibuya spots near shibuya crossing. For example, sushi, yakiniku, bar, french, etc...
+# awesome-shibuya restaurant
+Awesome shibuya restaurant near shibuya crossing. For example, sushi, yakiniku, bar, french, etc...
 
 I am a computer engineer who lives in Tokyo for five years and Shibuya for two years.
 Everything is recommended, but please adjust to your taste and budget.
