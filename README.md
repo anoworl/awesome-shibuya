@@ -5,7 +5,7 @@ I am a computer engineer who lives in Tokyo for five years and Shibuya for two y
 Everything is recommended, but please adjust to your taste and budget.
 
 **Be sure to check the information yourself!**
-**The price is for reference!**
+**The price is for rough indication!**
 **!!AT YOUR OWN RISK!!**
 
 **We recommend a reservation before you go.**
