@@ -18,6 +18,7 @@ Everything is recommended, but please adjust to your taste and budget.
 - Mood: Middle High (Informal)
 - Traffic: Middle
 - Info: https://tabelog.com/tokyo/A1303/A130301/13001786/
+- Map: https://goo.gl/maps/pBST8RxDCAR2
 
 ### Umegaoka Sushinomidori Souhonten
 - Target: Beginner
@@ -26,6 +27,7 @@ Everything is recommended, but please adjust to your taste and budget.
 - Mood: Middle (Informal)
 - Traffic: High
 - Info: https://tabelog.com/en/tokyo/A1303/A130301/13004624/
+- Map: https://goo.gl/maps/ssfpmuV8NnP2 (in Markcity East)
 
 ### Tenkazushi Shibuya Higashiguchi ten
 - Target: Intermediate
@@ -34,6 +36,7 @@ Everything is recommended, but please adjust to your taste and budget.
 - Mood: Middle Low (Very Informal)
 - Traffic: Middle
 - Info: https://tabelog.com/tokyo/A1303/A130301/13033064/
+- Map: https://goo.gl/maps/n9wgwMaSoNG2
 
 ## Yakiniku
 ### Kongouen
@@ -43,6 +46,7 @@ Everything is recommended, but please adjust to your taste and budget.
 - Mood: Middle Low (Informal)
 - Traffic: Middle
 - Info: https://tabelog.com/en/tokyo/A1303/A130301/13117920/
+- Map: https://goo.gl/maps/d9busPYickn
 
 ### Yakiniku Inoue
 - Target: Intermediate
@@ -51,6 +55,7 @@ Everything is recommended, but please adjust to your taste and budget.
 - Mood: Middle High (Semi-Formal)
 - Traffic: High
 - Info: https://tabelog.com/en/tokyo/A1303/A130301/13129220/
+- Map: https://goo.gl/maps/s1za3jcKWfA2
 
 ## French
 ### COUCAGNO
@@ -61,6 +66,7 @@ Everything is recommended, but please adjust to your taste and budget.
 - Mood: High (Formal)
 - Traffic: Low
 - Info: https://tabelog.com/en/tokyo/A1303/A130301/13001905/
+- Map: https://goo.gl/maps/WAWtb5TguhC2 (in hotel)
 
 ### MARTINI HOUSE
 - Target: Advanced
@@ -69,6 +75,7 @@ Everything is recommended, but please adjust to your taste and budget.
 - Mood: Middle High (Formal)
 - Traffic: Low
 - Info: https://tabelog.com/en/tokyo/A1303/A130301/13181122/
+- Map: https://goo.gl/maps/jyYSeFF34pB2
 
 ### Shibuya Bed
 - Target: Expert
@@ -77,6 +84,7 @@ Everything is recommended, but please adjust to your taste and budget.
 - Mood: High (Formal)
 - Traffic: Middle High
 - Info: https://tabelog.com/tokyo/A1303/A130301/13041717/
+- Map: https://goo.gl/maps/EwNj1rToQqx
 
 ## Bar
 ### Le Connaisseur (Cigar Bar)
@@ -86,14 +94,16 @@ Everything is recommended, but please adjust to your taste and budget.
 - Mood: High (Semi-Formal)
 - Traffic: Middle
 - Info: https://tabelog.com/en/tokyo/A1302/A130201/13021058/
+- Map: https://goo.gl/maps/Liw5HtoH1SS2
 
-### M&V Tokyo
+### M&W Tokyo
 - Target: Advanced
 - Price: Middle High (3000 - 10000)
 - Taste: High
 - Mood: High (Semi-Formal)
 - Traffic: Middle
 - Info: https://tabelog.com/tokyo/A1303/A130301/13096470/
+- Map: https://goo.gl/maps/HXUPFMbXeC22
 
 ## Italian
 ### BACARI da PORTA PORTESE
@@ -103,4 +113,10 @@ Everything is recommended, but please adjust to your taste and budget.
 - Mood: Middle High (Semi-Formal)
 - Traffic: Middle
 - Info: https://tabelog.com/tokyo/A1303/A130301/13026197/
+- Map: https://goo.gl/maps/RnLteBuL3y22
 
+## Other
+### MEGA Don Quijote (No restaurant, this is shop　building)
+- Size: HUGE
+- Price: good feel
+- Map: https://goo.gl/maps/NvNTmnWuLd12
