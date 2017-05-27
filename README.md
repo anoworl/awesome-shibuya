@@ -19,7 +19,7 @@ Everything is recommended, but please adjust to your taste and budget.
 - Traffic: Middle
 - Info: https://tabelog.com/tokyo/A1303/A130301/13001786/
 
-## Umegaoka Sushinomidori Souhonten
+### Umegaoka Sushinomidori Souhonten
 - Target: Beginner
 - Price: Middle (3000 - 10000)
 - Taste: Middle High
@@ -27,7 +27,7 @@ Everything is recommended, but please adjust to your taste and budget.
 - Traffic: High
 - Info: https://tabelog.com/en/tokyo/A1303/A130301/13004624/
 
-## Tenkazushi Shibuya Higashiguchi ten
+### Tenkazushi Shibuya Higashiguchi ten
 - Target: Intermediate
 - Price: Very Low (2000 - 5000)
 - Taste: Middle Low
